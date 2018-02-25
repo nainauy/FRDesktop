@@ -222,7 +222,7 @@ namespace SDPDesktop
         public int Count;
 
         /// <summary>
-        /// Event handler which captures and processes frames and detects faces.
+        /// Method which captures and processes frames and detects faces.
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="arg"></param>
